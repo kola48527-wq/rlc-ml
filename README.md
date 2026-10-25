@@ -47,4 +47,4 @@ To simulate real-world sensor imperfections, Gaussian noise and 1% random outlie
 ## Author
 Forkol
 * 13-year-old ML Enthusiast and Developer
-* GitHub: @kola48527-wq
+* GitHub: @forkoll
