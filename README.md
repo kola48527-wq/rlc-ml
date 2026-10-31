@@ -19,7 +19,7 @@ In an RLC circuit, resonance occurs when inductive and capacitive reactances can
 * Visualization: Matplotlib
 
 ## Results
-The models were trained on a dataset of over 320,000 combinations.
+The models were trained on a dataset of over 160,000 combinations.
 
 * Baseline (Random Forest, clean data): R2 = 0.8900
 * Tuned Model (LightGBM, clean data): R2 = 0.9906
